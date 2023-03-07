@@ -1,0 +1,9 @@
+{
+  "okta": {
+    "login.title": "Welcome to Okta!",
+    "wallet.button": "Sign in with username",
+    "disclaimer": "or",
+    "disclaimer.terms": "Email",
+    "email.button":"Sign in with email"
+    }
+}
