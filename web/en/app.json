@@ -1,9 +1,10 @@
 {
   "okta": {
     "login.title": "Welcome to Okta!",
-    "wallet.button": "Sign in with username",
+    "wallet.button": "Sign in with name",
     "disclaimer": "Everything starts with Identity",
     "disclaimer.terms": "Identity can create great user experiences, increase customer sign-ups, improve employee productivity, and get apps to market faster.",
-    "test.button":"Get started"
+    "test.button":"Get started",
+    "user":"Hi {{username}}!"
     }
 }
