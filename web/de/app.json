@@ -1,0 +1,9 @@
+{
+  "okta" : {
+    "login.title" : "Willkommen bei Okta!",
+    "wallet.button" : "Melden Sie sich mit Benutzernamen an",
+    "disclaimer" : "Alles beginnt mit Identität",
+    "disclaimer.terms" : "Identität kann großartige Benutzererlebnisse schaffen, Kundenanmeldungen steigern, die Mitarbeiterproduktivität verbessern und Apps schneller auf den Markt bringen.",
+    "test.button" : "Loslegen"
+  }
+}
