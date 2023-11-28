@@ -1,10 +1,11 @@
 {
   "okta": {
-    "login.title": "Welcome to Okta!",
-    "wallet.button": "Sign in with name",
-    "disclaimer": "Everything starts with Identity",
-    "disclaimer.terms": "Identity can create great user experiences, increase customer sign-ups, improve employee productivity, and get apps to market faster.",
-    "test.button":"Get started",
-    "user":"Hi {{username}}!"
+    "screen.message":"Enter your Okta organization URL",
+   "screen.org":"Organization URL",
+   "screen.help":"Need help signing in?",
+   "screen.new":"New Okta customer?",
+   "screen.30day":"Sign up for a free 30-days trial",
+   "screen.apimessage":"App developer or working with APIs?",
+   "screen.devlink":"Sign up for the Free Developer Edition"
     }
 }
