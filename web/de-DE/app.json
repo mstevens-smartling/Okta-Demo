@@ -1,0 +1,12 @@
+{
+  "okta" : {
+    "screen.message" : "Geben Sie die URL Ihrer Okta-Organisation ein",
+    "screen.org" : "Organisations-URL",
+    "screen.help" : "Benötigen Sie Hilfe bei der Anmeldung?",
+    "screen.new" : "Neuer Okta-Kunde?",
+    "screen.30day" : "Melden Sie sich für eine kostenlose 30-Tage-Testversion an",
+    "screen.apimessage" : "App-Entwickler oder arbeiten Sie mit APIs?",
+    "screen.devlink" : "Melden Sie sich für die kostenlose Developer Edition an",
+    "test.ms" : "Hallo {{username}}!"
+  }
+}
